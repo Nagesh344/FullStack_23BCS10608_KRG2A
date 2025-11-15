@@ -1,0 +1,3 @@
+com\example\postapp\model\Post.class
+com\example\postapp\controller\PostController.class
+com\example\postapp\PostappApplication.class
